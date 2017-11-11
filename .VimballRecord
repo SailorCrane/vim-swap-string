@@ -1,0 +1,1 @@
+a.vim: call delete('/home/crane/.vim/plugin/swapstringsPlugin.vim')|call delete('/home/crane/.vim/doc/swapstrings.txt')|call delete('/home/crane/.vim/autoload/swapstrings.vim')
